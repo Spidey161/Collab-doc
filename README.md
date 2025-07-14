@@ -1,5 +1,17 @@
 # 📝 Real-Time Collaborative Document Editor
 
+* COMPANY* : CODTECH IT SOLUTIONS
+
+* NAME* : Manu yadav
+
+* INTERN ID* : CT06DF646
+
+* DOMAIN* : Full Stack Web Development
+
+* DURATION* : 6 WEEKS
+
+* MENTOR* : NEELA SANTHOSH KUMAR
+
 A real-time collaborative text editor built with **React**, **Node.js**, **Socket.io**, and **MongoDB** — similar to Google Docs. This project allows multiple users to edit the same document simultaneously, with changes synced live and saved automatically.
 
 ---
@@ -76,6 +88,13 @@ The document is loaded (or created) from MongoDB.
 All edits are broadcasted in real-time to other users in the same document.
 
 Changes are saved automatically every 2 seconds.
+
+
+#OUTPUT  
+
+<img width="943" height="855" alt="Image" src="https://github.com/user-attachments/assets/4e1722be-2ca9-4ea5-ad29-49bcdeac0b00" />
+<img width="1917" height="572" alt="Image" src="https://github.com/user-attachments/assets/3e17c809-5b78-467e-a7b3-26d948d9e418" />
+<img width="1887" height="821" alt="Image" src="https://github.com/user-attachments/assets/c0c639a3-2946-4e08-8d1f-7727588ed3e2" />
 
 Document title is stored and updated live.
 
